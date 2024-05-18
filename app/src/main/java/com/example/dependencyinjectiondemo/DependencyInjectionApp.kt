@@ -7,5 +7,5 @@ const val TAG = "DependencyInjectionApp"
 
 @HiltAndroidApp
 class DependencyInjectionApp : Application() {
-
+  // application class
 }
